@@ -1,4 +1,4 @@
-# Analisis QoS Jaringan Wi-Fi Lokal - Cintya Nur Ramdani
+# Analisis QoS Jaringan Wi-Fi Lokal - Cintya Nur Ramadani
 
 Pengujian Kualitas Layanan (Quality of Service) untuk koneksi ke Pico WH 192.168.4.1 menggunakan Wireshark dan CMD.
 
